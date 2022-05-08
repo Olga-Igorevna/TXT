@@ -1,0 +1,4 @@
+name: Lukianova Olga Igorevna
+age: 34
+pets: one cat
+salary:1000$
