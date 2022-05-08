@@ -1,0 +1,5 @@
+Favorite movie: "Harry Potter"
+Favorite TV series: "Friends"
+Favorite food: Vegetable salad
+Favorite time of year: Early fall
+Country I want to visit: New Zealand
